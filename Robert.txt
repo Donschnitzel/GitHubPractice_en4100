@@ -1,3 +1,6 @@
 Hey Guys
+<<<<<<< Updated upstream
 Class is awesome with you
+=======
+>>>>>>> Stashed changes
 Malcom was here
